@@ -35,7 +35,7 @@ Leitner Box/
 - Below is a visual flow of how a new flashcard is added to the system:
 
 <p align="left">
-  <img src="1.PNG" alt="Leitner Box Flowchart" width="300"/>
+  <img src="1.PNG" alt="Leitner Box Flowchart" width="200"/>
 </p>
 
 ✅ **Leitner Review System (Spaced Repetition)**  
